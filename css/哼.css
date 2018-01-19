@@ -1,0 +1,43 @@
+.topnav {
+    width: 100%;
+    height: 110px;
+    background-color: white;
+}
+
+.center {
+    width: 1160px;
+    height: 60px;
+    margin: 0 auto;
+
+}
+
+.topnavlogo {
+    width: 203px;
+    height: 60px;
+    float: left;
+    margin: 25px;
+
+}
+
+.topnav-right {
+    float: right;
+    height: 30px;
+    line-height: 30px;
+    margin: 40px;
+}
+
+.topnav-a{
+    float:left;
+    width: 100px;
+}
+.topnav-a > a{
+    font-size:20px;
+    /*margin-left:20px;*/
+    color: #000000;
+}
+.topnav-a:hover{
+    color: red;
+}
+.topnav-a .margin {
+    margin-left: 55px;
+}
